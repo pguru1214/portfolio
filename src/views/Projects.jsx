@@ -18,13 +18,12 @@ const Projects = () => {
         {/* <h4 className="mt-16 text-3xl font-semibold text-blue-600">
           What I Built
         </h4> */}
-        <div className="mt-8">
+        <div className="mt-8 flex justify-center">
+          <Card />
           {/* <Card />
           <Card />
           <Card />
-          <Card />
           <Card /> */}
-          <h1 className="text-center text-6xl font-bold">Comming Soon</h1>
         </div>
         {/* <a
           href="hello"

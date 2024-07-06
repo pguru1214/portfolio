@@ -48,7 +48,7 @@ const Card = () => {
           </svg>
         </a>
       </div> */}
-      <h5>Comming Soon</h5>
+      <h1 className="text-center text-6xl font-bold">Comming Soon</h1>
     </motion.div>
   );
 };
