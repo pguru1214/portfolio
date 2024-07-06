@@ -29,16 +29,16 @@ const Home = () => {
               <motion.span
                 className={darkMode ? "block text-black" : " text-white"}
               >
-                Hi, I am Aakash
+                Hi, I am Prassadh
               </motion.span>
               <span className="block text-blue-500 z-0 lg:inline">
                 <Typical
                   steps={[
+                    "UI Developer",
+                    1000,
+                    "UX Designer",
+                    1000,
                     "Front End Developer",
-                    1000,
-                    "Full Stack Developer",
-                    1000,
-                    "Mobile Developer",
                     1000,
                   ]}
                   loop={Infinity}
@@ -52,8 +52,8 @@ const Home = () => {
                   : "mt-3 text-base text-white sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0"
               }
             >
-              I am a Front-End / Full-Stack Developer. I am currently working at
-              CloudStok Technologies as a Front-End Developer
+              I am a UI Developer / Front-End Developer. I am currently working at
+              Valuelabs as a Senior Software Engineer
             </p>
             <div className="flex md:justify-start ">
               {contactLinks.map((el) => (
@@ -88,7 +88,7 @@ const Home = () => {
               hidden: { opacity: 1, y: 80 },
             }}
             src={heroBg}
-            alt=""
+            alt="hero"
             className="md:w-3/6 hidden sm:block"
           />
         </main>
