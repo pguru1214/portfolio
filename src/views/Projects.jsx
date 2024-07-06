@@ -15,17 +15,18 @@ const Projects = () => {
         <h2 className="text-5xl font-bold px-4 md:px-0 text-center">
           Projects
         </h2>
-        <h4 className="mt-16 text-3xl font-semibold text-blue-600">
+        {/* <h4 className="mt-16 text-3xl font-semibold text-blue-600">
           What I Built
-        </h4>
-        <div className="mt-8 flex justify-between items-stretch flex-wrap">
+        </h4> */}
+        <div className="mt-8">
+          {/* <Card />
           <Card />
           <Card />
           <Card />
-          <Card />
-          <Card />
+          <Card /> */}
+          <h1 className="text-center text-6xl font-bold">Comming Soon</h1>
         </div>
-        <a
+        {/* <a
           href="hello"
           class=" w-32 flex items-center py-4 px-4 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 mx-auto mt-4"
         >
@@ -42,7 +43,7 @@ const Projects = () => {
               clip-rule="evenodd"
             ></path>
           </svg>
-        </a>
+        </a> */}
       </div>
     </div>
   );

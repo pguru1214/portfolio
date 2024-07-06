@@ -12,7 +12,7 @@ const Card = () => {
       }}
       class="max-w-xl bg-white rounded-lg border border-gray-200 shadow-lg dark:bg-gray-800 dark:border-gray-700 my-8"
     >
-      <a href="hello">
+      {/* <a href="hello">
         <img
           class="rounded-t-lg w-full"
           src="https://images.wallpaperscraft.com/image/single/system_scheme_blue_blueprint_10428_300x168.jpg"
@@ -47,7 +47,8 @@ const Card = () => {
             ></path>
           </svg>
         </a>
-      </div>
+      </div> */}
+      <h5>Comming Soon</h5>
     </motion.div>
   );
 };
