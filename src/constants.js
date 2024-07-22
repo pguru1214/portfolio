@@ -43,6 +43,10 @@ export const techStack = [
     name: "Javascript",
     link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
   },
+  {
+    name: "Material UI",
+    link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+  },
   
   {
     name: "React",
@@ -53,23 +57,23 @@ export const techStack = [
     link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg",
   },
 
-  {
-    name: "TypeScript",
-    link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
-  },
-  {
-    name: "Express",
-    link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg",
-  },
+  // {
+  //   name: "TypeScript",
+  //   link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
+  // },
+  // {
+  //   name: "Express",
+  //   link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg",
+  // },
 
-  {
-    name: "NodeJS",
-    link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg",
-  },
-  {
-    name: "Postman",
-    link: "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg",
-  },
+  // {
+  //   name: "NodeJS",
+  //   link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg",
+  // },
+  // {
+  //   name: "Postman",
+  //   link: "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg",
+  // },
 
   // {
   //   name: "Dart",
@@ -90,10 +94,10 @@ export const techStack = [
     name: "SQl",
     link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg",
   },
-  {
-    name: "Mongo DB",
-    link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg",
-  },
+  // {
+  //   name: "Mongo DB",
+  //   link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg",
+  // },
   // {
   //   name: "Heroku",
   //   link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg",
@@ -104,10 +108,10 @@ export const techStack = [
     link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg",
   },
   // { name: "Docker", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" },
-  {
-    name: "Firebase",
-    link: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
-  },
+  // {
+  //   name: "Firebase",
+  //   link: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+  // },
 
   // { name: "Bash", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" },
   // { name: "Vim", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" },
@@ -136,18 +140,18 @@ export const contactLinks = [
   {
     name: "Github",
     url: "https://img.icons8.com/doodle/40/000000/github--v1.png",
-    link: "https://github.com/",
+    link: "https://github.com/pguru1214",
   },
   {
     name: "LinkedIn",
     url: "https://img.icons8.com/doodle/40/000000/linkedin--v2.png",
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/gurupasad0346",
   },
 ];
 
 export const serviceData = [
   {
-    name: "UI Development Development",
+    name: "UI Development",
     desc: "UI Developer encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design user interface design  authoring, including standardised code and proprietary software user experience design and search engine",
     img: "https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-web-development-coding-kiranshastry-lineal-color-kiranshastry.png",
   },
